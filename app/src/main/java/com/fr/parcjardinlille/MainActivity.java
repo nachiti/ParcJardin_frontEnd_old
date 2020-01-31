@@ -165,7 +165,7 @@ public class MainActivity extends FragmentActivity implements LocationListener {
      }
 
     /**
-     * érifier que l'APK des services Google Play est disponible et à jour sur cet appareil.
+     * vérifier que l'APK des services Google Play est disponible et à jour sur cet appareil.
      * @return
      */
     public boolean checkPlayServices(){

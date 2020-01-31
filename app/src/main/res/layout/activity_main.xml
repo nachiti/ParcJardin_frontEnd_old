@@ -43,6 +43,7 @@
                 android:layout_weight="1"
                 android:background="@color/colorVerde"
                 android:text="Monument"
+                android:textColor="@color/textcolore"
                 android:onClick="Monument"/>
 
             <Button
@@ -51,6 +52,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@color/colorVerde"
+                android:textColor="@color/textcolore"
                 android:text="Caféteria"
                 android:onClick="Cafeteria"/>
 
@@ -60,6 +62,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@color/colorVerde"
+                android:textColor="@color/textcolore"
                 android:text="Etude"
                 android:onClick="Etude"/>
 
@@ -68,6 +71,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@color/colorVerde"
+                android:textColor="@color/textcolore"
                 android:layout_weight="1"
                 android:text="Sport"
                 android:onClick="Sport"/>
@@ -78,6 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@color/colorVerde"
+                android:textColor="@color/textcolore"
                 android:text="Jeux"
                 android:onClick="Jeux"/>
 
